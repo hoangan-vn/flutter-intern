@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "276870058509",
+    "project_id": "safebump-90881",
+    "storage_bucket": "safebump-90881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276870058509:android:6efac6fa07cb3339dafb44",
+        "android_client_info": {
+          "package_name": "com.lance.safebump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276870058509-3qvlqa0ujoqah69jlnf68fc162n3dpm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lance.safebump",
+            "certificate_hash": "18f137d0ba90e04e79e98a3420c91b63901b784e"
+          }
+        },
+        {
+          "client_id": "276870058509-745cgp2cqt0lilo9807aotkrm8uhg8g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lance.safebump",
+            "certificate_hash": "60488eeaa0e7ae7274b34f23fe70acecd075dcca"
+          }
+        },
+        {
+          "client_id": "276870058509-neqd6pgt9tckc6e3ve40tn0ln3jgf1a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJaKLUNAOCPajZVnx5SQi3vNVXhLyfHDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276870058509-neqd6pgt9tckc6e3ve40tn0ln3jgf1a5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276870058509-nn6e8ric8mngtphksc18fqp3hmivuop9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.safebump"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
